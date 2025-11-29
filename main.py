@@ -1,6 +1,6 @@
-import task1_hangman
-import task2_stock_portfolio
-import task4_chatbot
+import codealpha_hangman
+import codealpha_stock_portfolio
+import codealpha_chatbot
 
 def main():
     while True:
@@ -33,3 +33,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
